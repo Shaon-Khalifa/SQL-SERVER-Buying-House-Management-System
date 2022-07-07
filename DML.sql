@@ -1,13 +1,13 @@
 /*
-                    	===========================================================
-                       *|SQL Project Name : Buying House Management Systems (BHMS)|*
-            	      **|    Trainee Name : Md.Shaon Khalifa                      |** 
-				     ***|      Trainee ID : 1269818							      |***    
+                                	===========================================================
+                      	               *|SQL Project Name : Buying House Management Systems (BHMS)|*
+            	   		      **|    Trainee Name : Md.Shaon Khalifa                      |** 
+				     ***|      Trainee ID : 1269818			          |***    
 				    ****|        Batch ID : ESAD-CS/PNTL-A/51/01                  |****
 				   *****| Submission Date : 07/06/2022                            |*****
-					     ==========================================================
-						 				==>Table of Contents: DML FILE<==
-									   ****************************
+				         ==========================================================
+			                    		==>Table of Contents: DML FILE<==
+						         ****************************
          => SECTION 01: INSERTING DATA INTO TABLES
          => SECTION 02: INSERT DATA USEING VIEW , STORED PROCEDURE, TEST VIEW
 		 => SECTION 03: TEST USER DEFINE FUNCTION AND TRIGGER
@@ -91,7 +91,7 @@ SELECT * FROM vEmpolyee
 ---------------------------------INSERT INTO SHIPPERS  TABLE----------------------------------------
 
 INSERT INTO tblShippers (companyName,shipNum,phone)
-VALUES ('P. Moller–Maersk','MV H 4563','+036848738983')
+VALUES ('P. Mollerâ€“Maersk','MV H 4563','+036848738983')
 INSERT INTO tblShippers (companyName,shipNum,phone)
 VALUES ('Mediterranean Shipping Company','MV K 6848','+0184783837')
 INSERT INTO tblShippers (companyName,shipNum,phone)
